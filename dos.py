@@ -1,10 +1,12 @@
+GNU nano 8.0                                   upd.py
+#!/bin/python
 import socket
 import threading
 import time
 
 # Target IP and UDP port
-target_ip = '192.168.1.100'  # Replace with your target IP address
-target_port = 9000  # Replace with your target UDP port
+target_ip = '44.228.249.3'  # Replace with your target IP address
+target_port = 53  # Replace with your target UDP port
 
 # Payload to send (you can customize this)
 message = b'Hello UDP!'
