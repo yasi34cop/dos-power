@@ -1,4 +1,3 @@
-GNU nano 8.0                                   upd.py
 #!/bin/python
 import socket
 import threading
